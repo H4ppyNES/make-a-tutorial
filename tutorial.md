@@ -2,10 +2,10 @@
 
 # Introduction
 
-Welcome to the Tutorial on how to make your first MakeCode Tutorial!
+Welcome to Sensei Klyde's First MakeCode Arcade Tutorial!!
 
-This is a step-by-step guide on to how to make your own MakeCode Tutorial!
+This is a step-by-step guide on to how to complete the first ever project on IMPACT, White Belt 1-1!
 
-## Things you'll need
+## Step 1 / 5 : Set a Background Color!
 
-First things first, you'll need to have a Github Account, a MakeCode Arcade account, and a will to survive! (Bugs appear so often you'll think your tutorial was a nice smelling plate of dinner.)
+:tree: Add the first block that will start your climb on IMPACT! Navigate to your Toolbox, and find the ``||scene:set background color||`` block to your ``||loops: on start||`` container!
