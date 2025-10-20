@@ -19,8 +19,8 @@ Check your code out on the Simulator! Your background should have turned into th
 ## Step 2 / 5 : Add and Choose a Sprite!
 
 It's time to make your still image into a portrait!
+Let's create a Sprite!
 
-### Let's create a Sprite! 
 ### Sprites are any visible object in your video game!
 
 - :sprites: In your Toolbox, open the ``||sprites:Sprites||`` tab and select the ``||sprites: set mySprite to [image]||`` block and drag it into your ``||loops: on start||`` container.
