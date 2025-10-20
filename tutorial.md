@@ -24,3 +24,5 @@ Let's create a Sprite!
 ### Sprites are any visible object in your video game!
 
 - :sprites: In your Toolbox, open the ``||sprites:Sprites||`` tab and select the ``||sprites: set mySprite to [image]||`` block and drag it into your ``||loops: on start||`` container.
+
+- :logic: Click the grey square **inside** your coding block to draw your sprite! If you can't find the inspiration to draw your own characters, have a look at our **Gallery** tab above the canvas! 
